@@ -21,7 +21,7 @@
 :root{
   color-scheme:dark;
   --ink:#04070b;--ink-2:#08101a;--panel:rgba(14,26,38,.62);--panel-solid:#0b1520;
-  --ice:#7fdcff;--deep:#1e9bff;--snow:#e9fbff;--text:#cfe3ee;--mute:#8aa2b3;--faint:#5b7182;
+  --ice:#7fdcff;--deep:#1e9bff;--snow:#e9fbff;--text:#cfe3ee;--mute:#8aa2b3;--faint:#71899a;
   --line:rgba(127,220,255,.16);--line-2:rgba(127,220,255,.28);
   --acc:var(--ice);--acc-2:var(--deep);--glow:rgba(127,220,255,.35);
   --display:"Unbounded",system-ui,sans-serif;--body:"Plex",system-ui,-apple-system,"Segoe UI",sans-serif;
@@ -234,7 +234,7 @@ h2{font:500 clamp(1.7rem,3.6vw,2.7rem)/1.08 var(--display);letter-spacing:-.01em
 .piede-nav{display:flex;flex-wrap:wrap;justify-content:center;gap:2px 6px;margin-bottom:16px}
 .piede-nav a{color:var(--text);text-decoration:none;padding:10px 10px}
 @media (hover:hover){.piede-nav a:hover{color:var(--snow);text-decoration:underline}}
-.piede-c{margin:0;color:var(--faint);font-size:.82rem}
+.piede-c{margin:0;color:var(--mute);font-size:.82rem}
 
 /* Barra d'ascolto: compare quando il video esce dallo schermo */
 .barra{position:fixed;left:50%;bottom:calc(14px + env(safe-area-inset-bottom));z-index:30;width:min(640px,calc(100% - 24px));translate:-50% 0;display:grid;grid-template-columns:auto 1fr;align-items:center;gap:12px;padding:10px 16px 10px 10px;border-radius:18px;background:rgba(6,12,19,.86);border:1px solid var(--line-2);box-shadow:0 20px 60px -10px rgba(0,0,0,.8);backdrop-filter:blur(16px);-webkit-backdrop-filter:blur(16px);overflow:hidden}

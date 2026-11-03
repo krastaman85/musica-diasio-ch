@@ -149,6 +149,7 @@
             self.playerBox.classList.add("attivo");
             if (self.avvio > 0.5) ev.target.seekTo(self.avvio, true);
             ev.target.playVideo();
+            try { if (ev.target.unloadModule) ev.target.unloadModule("captions"); } catch (e) {} // i sottotitoli automatici coprirebbero il testo già nel video
             var f = self.playerBox.querySelector("iframe");
             if (f) f.setAttribute("title", "Video di " + self.d.titolo + " su YouTube");
           },
