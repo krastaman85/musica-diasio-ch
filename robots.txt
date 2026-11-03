@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://musica.diasio.ch/sitemap.xml

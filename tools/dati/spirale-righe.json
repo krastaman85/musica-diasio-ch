@@ -1,0 +1,1626 @@
+[
+ {
+  "testo": "Sincopi di vuoto, schegge di corteccia,",
+  "voce": "rap",
+  "inizio": 94.04,
+  "fine": 97.226,
+  "parole": [
+   {
+    "w": "Sincopi",
+    "s": 94.04,
+    "e": 94.526,
+    "stimata": true
+   },
+   {
+    "w": "di",
+    "s": 94.58,
+    "e": 95.066,
+    "stimata": true
+   },
+   {
+    "w": "vuoto",
+    "s": 95.12,
+    "e": 95.606,
+    "stimata": true
+   },
+   {
+    "w": "schegge",
+    "s": 95.66,
+    "e": 96.146,
+    "stimata": true
+   },
+   {
+    "w": "di",
+    "s": 96.2,
+    "e": 96.686,
+    "stimata": true
+   },
+   {
+    "w": "corteccia",
+    "s": 96.74,
+    "e": 97.226,
+    "stimata": true
+   }
+  ]
+ },
+ {
+  "testo": "il pensiero corre dove la follia s'intreccia.",
+  "voce": "rap",
+  "inizio": 97.88,
+  "fine": 101.011,
+  "parole": [
+   {
+    "w": "il",
+    "s": 97.88,
+    "e": 98.288,
+    "stimata": true
+   },
+   {
+    "w": "pensiero",
+    "s": 98.334,
+    "e": 98.742,
+    "stimata": true
+   },
+   {
+    "w": "corre",
+    "s": 98.787,
+    "e": 99.196,
+    "stimata": true
+   },
+   {
+    "w": "dove",
+    "s": 99.241,
+    "e": 99.65,
+    "stimata": true
+   },
+   {
+    "w": "la",
+    "s": 99.695,
+    "e": 100.103,
+    "stimata": true
+   },
+   {
+    "w": "follia",
+    "s": 100.149,
+    "e": 100.557,
+    "stimata": true
+   },
+   {
+    "w": "s'intreccia",
+    "s": 100.603,
+    "e": 101.011,
+    "stimata": true
+   }
+  ]
+ },
+ {
+  "testo": "Siamo specchi rotti, calcoli astratti,",
+  "voce": "rap",
+  "inizio": 101.28,
+  "fine": 104.74,
+  "parole": [
+   {
+    "w": "Siamo",
+    "s": 101.28,
+    "e": 101.68,
+    "stimata": false
+   },
+   {
+    "w": "specchi",
+    "s": 101.68,
+    "e": 102.058,
+    "stimata": true
+   },
+   {
+    "w": "rotti",
+    "s": 102.52,
+    "e": 102.98,
+    "stimata": false
+   },
+   {
+    "w": "calcoli",
+    "s": 103.28,
+    "e": 104.2,
+    "stimata": false
+   },
+   {
+    "w": "astratti",
+    "s": 104.2,
+    "e": 104.74,
+    "stimata": true
+   }
+  ]
+ },
+ {
+  "testo": "chiusi dentro un loop di dogmi e di patti.",
+  "voce": "rap",
+  "inizio": 105.48,
+  "fine": 108.558,
+  "parole": [
+   {
+    "w": "chiusi",
+    "s": 105.48,
+    "e": 105.588,
+    "stimata": true
+   },
+   {
+    "w": "dentro",
+    "s": 105.5,
+    "e": 105.82,
+    "stimata": false
+   },
+   {
+    "w": "un",
+    "s": 105.82,
+    "e": 106.26,
+    "stimata": false
+   },
+   {
+    "w": "loop",
+    "s": 106.26,
+    "e": 106.48,
+    "stimata": false
+   },
+   {
+    "w": "di",
+    "s": 106.48,
+    "e": 106.88,
+    "stimata": false
+   },
+   {
+    "w": "dogmi",
+    "s": 106.88,
+    "e": 107.126,
+    "stimata": true
+   },
+   {
+    "w": "e",
+    "s": 107.153,
+    "e": 107.399,
+    "stimata": true
+   },
+   {
+    "w": "di",
+    "s": 107.7,
+    "e": 108.04,
+    "stimata": false
+   },
+   {
+    "w": "patti",
+    "s": 108.04,
+    "e": 108.558,
+    "stimata": true
+   }
+  ]
+ },
+ {
+  "testo": "La ragione sfugge, scivola sul basso,",
+  "voce": "rap",
+  "inizio": 108.9,
+  "fine": 110.66,
+  "parole": [
+   {
+    "w": "La",
+    "s": 108.9,
+    "e": 109.22,
+    "stimata": false
+   },
+   {
+    "w": "ragione",
+    "s": 109.22,
+    "e": 109.44,
+    "stimata": false
+   },
+   {
+    "w": "sfugge",
+    "s": 109.44,
+    "e": 109.584,
+    "stimata": true
+   },
+   {
+    "w": "scivola",
+    "s": 109.76,
+    "e": 110.08,
+    "stimata": false
+   },
+   {
+    "w": "sul",
+    "s": 110.08,
+    "e": 110.26,
+    "stimata": false
+   },
+   {
+    "w": "basso",
+    "s": 110.26,
+    "e": 110.66,
+    "stimata": false
+   }
+  ]
+ },
+ {
+  "testo": "il tempo ticchetta e ruba ossigeno a ogni passo.",
+  "voce": "rap",
+  "inizio": 110.72,
+  "fine": 112.44,
+  "parole": [
+   {
+    "w": "il",
+    "s": 110.72,
+    "e": 110.8,
+    "stimata": false
+   },
+   {
+    "w": "tempo",
+    "s": 110.8,
+    "e": 110.88,
+    "stimata": false
+   },
+   {
+    "w": "ticchetta",
+    "s": 110.88,
+    "e": 111.393,
+    "stimata": true
+   },
+   {
+    "w": "e",
+    "s": 112.02,
+    "e": 112.06,
+    "stimata": false
+   },
+   {
+    "w": "ruba",
+    "s": 112.06,
+    "e": 112.168,
+    "stimata": true
+   },
+   {
+    "w": "ossigeno",
+    "s": 112.18,
+    "e": 112.288,
+    "stimata": true
+   },
+   {
+    "w": "a",
+    "s": 112.3,
+    "e": 112.408,
+    "stimata": true
+   },
+   {
+    "w": "ogni",
+    "s": 112.42,
+    "e": 112.528,
+    "stimata": true
+   },
+   {
+    "w": "passo",
+    "s": 112.47,
+    "e": 112.44,
+    "stimata": false
+   }
+  ]
+ },
+ {
+  "testo": "Cromosomi di cenere, nevrosi di massa:",
+  "voce": "rap",
+  "inizio": 112.67,
+  "fine": 114.38,
+  "parole": [
+   {
+    "w": "Cromosomi",
+    "s": 112.67,
+    "e": 112.8,
+    "stimata": true
+   },
+   {
+    "w": "di",
+    "s": 112.96,
+    "e": 113.1,
+    "stimata": false
+   },
+   {
+    "w": "cenere",
+    "s": 113.1,
+    "e": 113.34,
+    "stimata": true
+   },
+   {
+    "w": "nevrosi",
+    "s": 113.367,
+    "e": 113.607,
+    "stimata": true
+   },
+   {
+    "w": "di",
+    "s": 113.9,
+    "e": 114.08,
+    "stimata": false
+   },
+   {
+    "w": "massa",
+    "s": 114.08,
+    "e": 114.38,
+    "stimata": false
+   }
+  ]
+ },
+ {
+  "testo": "l'ego si gonfia e la mente incassa.",
+  "voce": "rap",
+  "inizio": 114.83,
+  "fine": 116.376,
+  "parole": [
+   {
+    "w": "l'ego",
+    "s": 114.83,
+    "e": 114.994,
+    "stimata": true
+   },
+   {
+    "w": "si",
+    "s": 115.012,
+    "e": 115.177,
+    "stimata": true
+   },
+   {
+    "w": "gonfia",
+    "s": 115.195,
+    "e": 115.359,
+    "stimata": true
+   },
+   {
+    "w": "e",
+    "s": 115.56,
+    "e": 115.66,
+    "stimata": false
+   },
+   {
+    "w": "la",
+    "s": 115.66,
+    "e": 115.72,
+    "stimata": false
+   },
+   {
+    "w": "mente",
+    "s": 115.72,
+    "e": 115.98,
+    "stimata": false
+   },
+   {
+    "w": "incassa",
+    "s": 115.98,
+    "e": 116.376,
+    "stimata": true
+   }
+  ]
+ },
+ {
+  "testo": "Non c'è spazio, non c'è luce, solo l'ombra che mi spinge",
+  "voce": "rap",
+  "inizio": 116.58,
+  "fine": 120.42,
+  "parole": [
+   {
+    "w": "Non",
+    "s": 116.58,
+    "e": 116.86,
+    "stimata": false
+   },
+   {
+    "w": "c'è",
+    "s": 116.86,
+    "e": 116.968,
+    "stimata": true
+   },
+   {
+    "w": "spazio",
+    "s": 117.08,
+    "e": 117.64,
+    "stimata": false
+   },
+   {
+    "w": "non",
+    "s": 117.76,
+    "e": 117.9,
+    "stimata": false
+   },
+   {
+    "w": "c'è",
+    "s": 117.9,
+    "e": 118.026,
+    "stimata": true
+   },
+   {
+    "w": "luce",
+    "s": 118.18,
+    "e": 118.5,
+    "stimata": false
+   },
+   {
+    "w": "solo",
+    "s": 118.56,
+    "e": 119.0,
+    "stimata": false
+   },
+   {
+    "w": "l'ombra",
+    "s": 119.0,
+    "e": 119.234,
+    "stimata": true
+   },
+   {
+    "w": "che",
+    "s": 119.52,
+    "e": 119.74,
+    "stimata": false
+   },
+   {
+    "w": "mi",
+    "s": 119.74,
+    "e": 119.98,
+    "stimata": false
+   },
+   {
+    "w": "spinge",
+    "s": 119.98,
+    "e": 120.42,
+    "stimata": false
+   }
+  ]
+ },
+ {
+  "testo": "in questa gabbia di frequenze dove il demone dipinge!",
+  "voce": "rap",
+  "inizio": 120.42,
+  "fine": 124.14,
+  "parole": [
+   {
+    "w": "in",
+    "s": 120.42,
+    "e": 120.58,
+    "stimata": false
+   },
+   {
+    "w": "questa",
+    "s": 120.58,
+    "e": 120.94,
+    "stimata": false
+   },
+   {
+    "w": "gabbia",
+    "s": 120.94,
+    "e": 121.46,
+    "stimata": false
+   },
+   {
+    "w": "di",
+    "s": 121.46,
+    "e": 121.68,
+    "stimata": false
+   },
+   {
+    "w": "frequenze",
+    "s": 121.68,
+    "e": 122.38,
+    "stimata": false
+   },
+   {
+    "w": "dove",
+    "s": 122.38,
+    "e": 122.74,
+    "stimata": false
+   },
+   {
+    "w": "il",
+    "s": 122.74,
+    "e": 123.0,
+    "stimata": false
+   },
+   {
+    "w": "demone",
+    "s": 123.0,
+    "e": 123.54,
+    "stimata": true
+   },
+   {
+    "w": "dipinge",
+    "s": 123.6,
+    "e": 124.14,
+    "stimata": true
+   }
+  ]
+ },
+ {
+  "testo": "L'ABISSO RESPIRA! LA FORMA SI SQUARCIA!",
+  "voce": "scream",
+  "inizio": 140.4,
+  "fine": 145.62,
+  "parole": [
+   {
+    "w": "L'ABISSO",
+    "s": 140.4,
+    "e": 141.312,
+    "stimata": true
+   },
+   {
+    "w": "RESPIRA",
+    "s": 141.413,
+    "e": 142.325,
+    "stimata": true
+   },
+   {
+    "w": "LA",
+    "s": 143.44,
+    "e": 144.2,
+    "stimata": false
+   },
+   {
+    "w": "FORMA",
+    "s": 144.2,
+    "e": 144.62,
+    "stimata": false
+   },
+   {
+    "w": "SI",
+    "s": 144.62,
+    "e": 145.08,
+    "stimata": false
+   },
+   {
+    "w": "SQUARCIA",
+    "s": 145.08,
+    "e": 145.62,
+    "stimata": true
+   }
+  ]
+ },
+ {
+  "testo": "Siamo polvere cieca che applaude alla propria marcia!",
+  "voce": "scream",
+  "inizio": 147.78,
+  "fine": 153.52,
+  "parole": [
+   {
+    "w": "Siamo",
+    "s": 147.78,
+    "e": 147.888,
+    "stimata": true
+   },
+   {
+    "w": "polvere",
+    "s": 147.96,
+    "e": 148.72,
+    "stimata": false
+   },
+   {
+    "w": "cieca",
+    "s": 149.04,
+    "e": 149.54,
+    "stimata": false
+   },
+   {
+    "w": "che",
+    "s": 149.54,
+    "e": 149.82,
+    "stimata": false
+   },
+   {
+    "w": "applaude",
+    "s": 149.82,
+    "e": 150.51,
+    "stimata": true
+   },
+   {
+    "w": "alla",
+    "s": 150.587,
+    "e": 151.277,
+    "stimata": true
+   },
+   {
+    "w": "propria",
+    "s": 152.12,
+    "e": 152.78,
+    "stimata": false
+   },
+   {
+    "w": "marcia",
+    "s": 152.78,
+    "e": 153.52,
+    "stimata": false
+   }
+  ]
+ },
+ {
+  "testo": "INUTILE CARNE!",
+  "voce": "scream",
+  "inizio": 153.91,
+  "fine": 155.36,
+  "parole": [
+   {
+    "w": "INUTILE",
+    "s": 153.91,
+    "e": 154.256,
+    "stimata": true
+   },
+   {
+    "w": "CARNE",
+    "s": 154.68,
+    "e": 155.36,
+    "stimata": false
+   }
+  ]
+ },
+ {
+  "testo": "Radici marce nel petto del cosmo.",
+  "voce": "growl",
+  "inizio": 157.02,
+  "fine": 160.2,
+  "parole": [
+   {
+    "w": "Radici",
+    "s": 157.02,
+    "e": 157.96,
+    "stimata": false
+   },
+   {
+    "w": "marce",
+    "s": 157.96,
+    "e": 158.131,
+    "stimata": true
+   },
+   {
+    "w": "nel",
+    "s": 158.34,
+    "e": 158.48,
+    "stimata": false
+   },
+   {
+    "w": "petto",
+    "s": 158.48,
+    "e": 159.28,
+    "stimata": false
+   },
+   {
+    "w": "del",
+    "s": 159.28,
+    "e": 159.48,
+    "stimata": false
+   },
+   {
+    "w": "cosmo",
+    "s": 159.48,
+    "e": 160.2,
+    "stimata": false
+   }
+  ]
+ },
+ {
+  "testo": "Il nulla ci osserva... e noi lo chiamiamo Dio.",
+  "voce": "growl",
+  "inizio": 160.53,
+  "fine": 162.72,
+  "parole": [
+   {
+    "w": "Il",
+    "s": 160.53,
+    "e": 160.638,
+    "stimata": true
+   },
+   {
+    "w": "nulla",
+    "s": 160.58,
+    "e": 160.74,
+    "stimata": false
+   },
+   {
+    "w": "ci",
+    "s": 160.74,
+    "e": 160.968,
+    "stimata": true
+   },
+   {
+    "w": "osserva",
+    "s": 160.993,
+    "e": 161.221,
+    "stimata": true
+   },
+   {
+    "w": "e",
+    "s": 161.5,
+    "e": 161.58,
+    "stimata": false
+   },
+   {
+    "w": "noi",
+    "s": 161.58,
+    "e": 161.688,
+    "stimata": true
+   },
+   {
+    "w": "lo",
+    "s": 161.58,
+    "e": 161.68,
+    "stimata": false
+   },
+   {
+    "w": "chiamiamo",
+    "s": 161.68,
+    "e": 162.12,
+    "stimata": false
+   },
+   {
+    "w": "Dio",
+    "s": 162.12,
+    "e": 162.72,
+    "stimata": false
+   }
+  ]
+ },
+ {
+  "testo": "Sangue sui tasti, polvere di stelle,",
+  "voce": "sussurro",
+  "inizio": 178.15,
+  "fine": 179.56,
+  "parole": [
+   {
+    "w": "Sangue",
+    "s": 178.15,
+    "e": 178.258,
+    "stimata": true
+   },
+   {
+    "w": "sui",
+    "s": 178.16,
+    "e": 178.32,
+    "stimata": false
+   },
+   {
+    "w": "tasti",
+    "s": 178.32,
+    "e": 178.66,
+    "stimata": false
+   },
+   {
+    "w": "polvere",
+    "s": 178.84,
+    "e": 179.02,
+    "stimata": false
+   },
+   {
+    "w": "di",
+    "s": 179.02,
+    "e": 179.18,
+    "stimata": false
+   },
+   {
+    "w": "stelle",
+    "s": 179.18,
+    "e": 179.56,
+    "stimata": false
+   }
+  ]
+ },
+ {
+  "testo": "il destino è un filo di sutura sulla pelle.",
+  "voce": "sussurro",
+  "inizio": 179.78,
+  "fine": 181.5,
+  "parole": [
+   {
+    "w": "il",
+    "s": 179.78,
+    "e": 179.86,
+    "stimata": false
+   },
+   {
+    "w": "destino",
+    "s": 179.86,
+    "e": 180.1,
+    "stimata": false
+   },
+   {
+    "w": "è",
+    "s": 180.1,
+    "e": 180.208,
+    "stimata": true
+   },
+   {
+    "w": "un",
+    "s": 180.1,
+    "e": 180.24,
+    "stimata": false
+   },
+   {
+    "w": "filo",
+    "s": 180.24,
+    "e": 180.44,
+    "stimata": false
+   },
+   {
+    "w": "di",
+    "s": 180.44,
+    "e": 180.54,
+    "stimata": false
+   },
+   {
+    "w": "sutura",
+    "s": 180.54,
+    "e": 180.693,
+    "stimata": true
+   },
+   {
+    "w": "sulla",
+    "s": 180.88,
+    "e": 181.08,
+    "stimata": false
+   },
+   {
+    "w": "pelle",
+    "s": 181.08,
+    "e": 181.5,
+    "stimata": false
+   }
+  ]
+ },
+ {
+  "testo": "Conta i respiri... uno... due... tre...",
+  "voce": "sussurro",
+  "inizio": 181.94,
+  "fine": 183.28,
+  "parole": [
+   {
+    "w": "Conta",
+    "s": 181.94,
+    "e": 182.048,
+    "stimata": true
+   },
+   {
+    "w": "i",
+    "s": 182.06,
+    "e": 182.168,
+    "stimata": true
+   },
+   {
+    "w": "respiri",
+    "s": 182.11,
+    "e": 182.52,
+    "stimata": false
+   },
+   {
+    "w": "uno",
+    "s": 182.52,
+    "e": 182.78,
+    "stimata": false
+   },
+   {
+    "w": "due",
+    "s": 182.86,
+    "e": 183.02,
+    "stimata": false
+   },
+   {
+    "w": "tre",
+    "s": 183.04,
+    "e": 183.28,
+    "stimata": false
+   }
+  ]
+ },
+ {
+  "testo": "Cosa sopravvive di noi? Cosa si nasconde in te?",
+  "voce": "sussurro",
+  "inizio": 183.4,
+  "fine": 185.74,
+  "parole": [
+   {
+    "w": "Cosa",
+    "s": 183.4,
+    "e": 183.5,
+    "stimata": false
+   },
+   {
+    "w": "sopravvive",
+    "s": 183.5,
+    "e": 183.98,
+    "stimata": false
+   },
+   {
+    "w": "di",
+    "s": 183.98,
+    "e": 184.18,
+    "stimata": false
+   },
+   {
+    "w": "noi",
+    "s": 184.18,
+    "e": 184.42,
+    "stimata": false
+   },
+   {
+    "w": "Cosa",
+    "s": 184.52,
+    "e": 184.7,
+    "stimata": false
+   },
+   {
+    "w": "si",
+    "s": 184.7,
+    "e": 184.9,
+    "stimata": false
+   },
+   {
+    "w": "nasconde",
+    "s": 184.9,
+    "e": 185.34,
+    "stimata": false
+   },
+   {
+    "w": "in",
+    "s": 185.34,
+    "e": 185.52,
+    "stimata": false
+   },
+   {
+    "w": "te",
+    "s": 185.52,
+    "e": 185.74,
+    "stimata": false
+   }
+  ]
+ },
+ {
+  "testo": "Cerchi la verità in un cielo di cartone,",
+  "voce": "sussurro",
+  "inizio": 185.74,
+  "fine": 189.101,
+  "parole": [
+   {
+    "w": "Cerchi",
+    "s": 185.74,
+    "e": 186.32,
+    "stimata": false
+   },
+   {
+    "w": "la",
+    "s": 186.32,
+    "e": 186.54,
+    "stimata": false
+   },
+   {
+    "w": "verità",
+    "s": 186.54,
+    "e": 187.14,
+    "stimata": false
+   },
+   {
+    "w": "in",
+    "s": 187.44,
+    "e": 187.76,
+    "stimata": false
+   },
+   {
+    "w": "un",
+    "s": 187.76,
+    "e": 187.94,
+    "stimata": false
+   },
+   {
+    "w": "cielo",
+    "s": 187.94,
+    "e": 188.24,
+    "stimata": false
+   },
+   {
+    "w": "di",
+    "s": 188.24,
+    "e": 188.648,
+    "stimata": true
+   },
+   {
+    "w": "cartone",
+    "s": 188.693,
+    "e": 189.101,
+    "stimata": true
+   }
+  ]
+ },
+ {
+  "testo": "ma hai murato tu la porta della tua prigione.",
+  "voce": "sussurro",
+  "inizio": 189.65,
+  "fine": 193.1,
+  "parole": [
+   {
+    "w": "ma",
+    "s": 189.65,
+    "e": 189.758,
+    "stimata": true
+   },
+   {
+    "w": "hai",
+    "s": 189.77,
+    "e": 189.878,
+    "stimata": true
+   },
+   {
+    "w": "murato",
+    "s": 189.82000000000002,
+    "e": 190.18,
+    "stimata": false
+   },
+   {
+    "w": "tu",
+    "s": 190.18,
+    "e": 190.54,
+    "stimata": false
+   },
+   {
+    "w": "la",
+    "s": 190.54,
+    "e": 190.8,
+    "stimata": false
+   },
+   {
+    "w": "porta",
+    "s": 190.8,
+    "e": 191.12,
+    "stimata": false
+   },
+   {
+    "w": "della",
+    "s": 191.12,
+    "e": 191.88,
+    "stimata": false
+   },
+   {
+    "w": "tua",
+    "s": 191.88,
+    "e": 192.44,
+    "stimata": false
+   },
+   {
+    "w": "prigione",
+    "s": 192.44,
+    "e": 193.1,
+    "stimata": false
+   }
+  ]
+ },
+ {
+  "testo": "E nel silenzio dei vivi",
+  "voce": "pulita",
+  "inizio": 208.11,
+  "fine": 211.36,
+  "parole": [
+   {
+    "w": "E",
+    "s": 208.11,
+    "e": 208.247,
+    "stimata": true
+   },
+   {
+    "w": "nel",
+    "s": 208.263,
+    "e": 208.4,
+    "stimata": true
+   },
+   {
+    "w": "silenzio",
+    "s": 208.415,
+    "e": 208.552,
+    "stimata": true
+   },
+   {
+    "w": "dei",
+    "s": 208.72,
+    "e": 208.92,
+    "stimata": false
+   },
+   {
+    "w": "vivi",
+    "s": 208.92,
+    "e": 211.36,
+    "stimata": false
+   }
+  ]
+ },
+ {
+  "testo": "cerco un frammento di luce,",
+  "voce": "pulita",
+  "inizio": 211.36,
+  "fine": 213.86,
+  "parole": [
+   {
+    "w": "cerco",
+    "s": 211.36,
+    "e": 211.96,
+    "stimata": false
+   },
+   {
+    "w": "un",
+    "s": 211.96,
+    "e": 212.08,
+    "stimata": false
+   },
+   {
+    "w": "frammento",
+    "s": 212.08,
+    "e": 212.58,
+    "stimata": false
+   },
+   {
+    "w": "di",
+    "s": 212.58,
+    "e": 212.7,
+    "stimata": false
+   },
+   {
+    "w": "luce",
+    "s": 212.7,
+    "e": 213.86,
+    "stimata": false
+   }
+  ]
+ },
+ {
+  "testo": "in questa spirale di vetro",
+  "voce": "pulita",
+  "inizio": 215.54,
+  "fine": 217.68,
+  "parole": [
+   {
+    "w": "in",
+    "s": 215.54,
+    "e": 215.58,
+    "stimata": false
+   },
+   {
+    "w": "questa",
+    "s": 215.58,
+    "e": 215.802,
+    "stimata": true
+   },
+   {
+    "w": "spirale",
+    "s": 215.827,
+    "e": 216.049,
+    "stimata": true
+   },
+   {
+    "w": "di",
+    "s": 216.32,
+    "e": 216.58,
+    "stimata": false
+   },
+   {
+    "w": "vetro",
+    "s": 216.58,
+    "e": 217.68,
+    "stimata": false
+   }
+  ]
+ },
+ {
+  "testo": "che al nulla conduce.",
+  "voce": "pulita",
+  "inizio": 217.68,
+  "fine": 221.54,
+  "parole": [
+   {
+    "w": "che",
+    "s": 217.68,
+    "e": 218.32,
+    "stimata": false
+   },
+   {
+    "w": "al",
+    "s": 218.32,
+    "e": 218.428,
+    "stimata": true
+   },
+   {
+    "w": "nulla",
+    "s": 218.46,
+    "e": 219.86,
+    "stimata": false
+   },
+   {
+    "w": "conduce",
+    "s": 219.86,
+    "e": 221.54,
+    "stimata": false
+   }
+  ]
+ },
+ {
+  "testo": "Siamo soltanto un ricordo,",
+  "voce": "pulita",
+  "inizio": 223.1,
+  "fine": 225.428,
+  "parole": [
+   {
+    "w": "Siamo",
+    "s": 223.1,
+    "e": 223.5,
+    "stimata": false
+   },
+   {
+    "w": "soltanto",
+    "s": 223.5,
+    "e": 223.92,
+    "stimata": false
+   },
+   {
+    "w": "un",
+    "s": 224.9,
+    "e": 225.32,
+    "stimata": false
+   },
+   {
+    "w": "ricordo",
+    "s": 225.32,
+    "e": 225.428,
+    "stimata": true
+   }
+  ]
+ },
+ {
+  "testo": "un'eco sbiadita nel gelo del tempo,",
+  "voce": "pulita",
+  "inizio": 225.37,
+  "fine": 226.9,
+  "parole": [
+   {
+    "w": "un'eco",
+    "s": 225.37,
+    "e": 225.541,
+    "stimata": true
+   },
+   {
+    "w": "sbiadita",
+    "s": 225.56,
+    "e": 225.731,
+    "stimata": true
+   },
+   {
+    "w": "nel",
+    "s": 225.94,
+    "e": 226.2,
+    "stimata": false
+   },
+   {
+    "w": "gelo",
+    "s": 226.2,
+    "e": 226.54,
+    "stimata": false
+   },
+   {
+    "w": "del",
+    "s": 226.54,
+    "e": 226.68,
+    "stimata": false
+   },
+   {
+    "w": "tempo",
+    "s": 226.68,
+    "e": 226.9,
+    "stimata": false
+   }
+  ]
+ },
+ {
+  "testo": "che sfiora l'eterno",
+  "voce": "pulita",
+  "inizio": 226.9,
+  "fine": 227.799,
+  "parole": [
+   {
+    "w": "che",
+    "s": 226.9,
+    "e": 227.14,
+    "stimata": false
+   },
+   {
+    "w": "sfiora",
+    "s": 227.14,
+    "e": 227.452,
+    "stimata": true
+   },
+   {
+    "w": "l'eterno",
+    "s": 227.487,
+    "e": 227.799,
+    "stimata": true
+   }
+  ]
+ },
+ {
+  "testo": "e si perde nel vento.",
+  "voce": "pulita",
+  "inizio": 227.98,
+  "fine": 231.04,
+  "parole": [
+   {
+    "w": "e",
+    "s": 227.98,
+    "e": 228.06,
+    "stimata": false
+   },
+   {
+    "w": "si",
+    "s": 228.06,
+    "e": 228.18,
+    "stimata": false
+   },
+   {
+    "w": "perde",
+    "s": 228.18,
+    "e": 228.762,
+    "stimata": true
+   },
+   {
+    "w": "nel",
+    "s": 228.827,
+    "e": 229.409,
+    "stimata": true
+   },
+   {
+    "w": "vento",
+    "s": 230.12,
+    "e": 231.04,
+    "stimata": false
+   }
+  ]
+ },
+ {
+  "testo": "Scomposizione dell'essere, atomi sparsi,",
+  "voce": "rap",
+  "inizio": 254.92,
+  "fine": 257.32,
+  "parole": [
+   {
+    "w": "Scomposizione",
+    "s": 254.92,
+    "e": 255.58,
+    "stimata": false
+   },
+   {
+    "w": "dell'essere",
+    "s": 255.58,
+    "e": 256.12,
+    "stimata": true
+   },
+   {
+    "w": "atomi",
+    "s": 256.18,
+    "e": 256.72,
+    "stimata": true
+   },
+   {
+    "w": "sparsi",
+    "s": 256.78,
+    "e": 257.32,
+    "stimata": true
+   }
+  ]
+ },
+ {
+  "testo": "guardiamo noi stessi soltanto per divorarci.",
+  "voce": "rap",
+  "inizio": 258.9,
+  "fine": 260.94,
+  "parole": [
+   {
+    "w": "guardiamo",
+    "s": 258.9,
+    "e": 259.008,
+    "stimata": true
+   },
+   {
+    "w": "noi",
+    "s": 259.02,
+    "e": 259.26,
+    "stimata": false
+   },
+   {
+    "w": "stessi",
+    "s": 259.26,
+    "e": 259.5,
+    "stimata": false
+   },
+   {
+    "w": "soltanto",
+    "s": 259.5,
+    "e": 260.1,
+    "stimata": false
+   },
+   {
+    "w": "per",
+    "s": 260.1,
+    "e": 260.4,
+    "stimata": false
+   },
+   {
+    "w": "divorarci",
+    "s": 260.4,
+    "e": 260.94,
+    "stimata": true
+   }
+  ]
+ },
+ {
+  "testo": "Frammenti di specchio, identità in pezzi,",
+  "voce": "rap",
+  "inizio": 262.74,
+  "fine": 265.64,
+  "parole": [
+   {
+    "w": "Frammenti",
+    "s": 262.74,
+    "e": 262.848,
+    "stimata": true
+   },
+   {
+    "w": "di",
+    "s": 262.96,
+    "e": 263.06,
+    "stimata": false
+   },
+   {
+    "w": "specchio",
+    "s": 263.06,
+    "e": 263.78,
+    "stimata": false
+   },
+   {
+    "w": "identità",
+    "s": 263.78,
+    "e": 264.014,
+    "stimata": true
+   },
+   {
+    "w": "in",
+    "s": 264.04,
+    "e": 264.274,
+    "stimata": true
+   },
+   {
+    "w": "pezzi",
+    "s": 264.56,
+    "e": 265.64,
+    "stimata": false
+   }
+  ]
+ },
+ {
+  "testo": "paghiamo in contanti i nostri disprezzi!",
+  "voce": "rap",
+  "inizio": 266.16,
+  "fine": 270.24,
+  "parole": [
+   {
+    "w": "paghiamo",
+    "s": 266.16,
+    "e": 266.74,
+    "stimata": false
+   },
+   {
+    "w": "in",
+    "s": 266.74,
+    "e": 266.848,
+    "stimata": true
+   },
+   {
+    "w": "contanti",
+    "s": 266.86,
+    "e": 266.968,
+    "stimata": true
+   },
+   {
+    "w": "i",
+    "s": 266.91,
+    "e": 266.88,
+    "stimata": false
+   },
+   {
+    "w": "nostri",
+    "s": 266.96000000000004,
+    "e": 267.492,
+    "stimata": true
+   },
+   {
+    "w": "disprezzi",
+    "s": 268.24,
+    "e": 270.24,
+    "stimata": false
+   }
+  ]
+ },
+ {
+  "testo": "DIVORARCI! LA MENTE COLLASSA! TUTTO È RUMORE!",
+  "voce": "scream",
+  "inizio": 271.85,
+  "fine": 276.94,
+  "parole": [
+   {
+    "w": "DIVORARCI",
+    "s": 271.85,
+    "e": 272.718,
+    "stimata": true
+   },
+   {
+    "w": "LA",
+    "s": 273.78,
+    "e": 274.0,
+    "stimata": false
+   },
+   {
+    "w": "MENTE",
+    "s": 274.0,
+    "e": 274.54,
+    "stimata": true
+   },
+   {
+    "w": "COLLASSA",
+    "s": 274.6,
+    "e": 275.14,
+    "stimata": true
+   },
+   {
+    "w": "TUTTO",
+    "s": 275.2,
+    "e": 275.74,
+    "stimata": true
+   },
+   {
+    "w": "È",
+    "s": 275.8,
+    "e": 276.34,
+    "stimata": true
+   },
+   {
+    "w": "RUMORE",
+    "s": 276.4,
+    "e": 276.94,
+    "stimata": true
+   }
+  ]
+ },
+ {
+  "testo": "Oltre il confine... della paura...",
+  "voce": "falsetto",
+  "inizio": 278.02,
+  "fine": 285.74,
+  "parole": [
+   {
+    "w": "Oltre",
+    "s": 278.02,
+    "e": 279.42,
+    "stimata": false
+   },
+   {
+    "w": "il",
+    "s": 279.42,
+    "e": 279.78,
+    "stimata": true
+   },
+   {
+    "w": "confine",
+    "s": 280.22,
+    "e": 281.92,
+    "stimata": false
+   },
+   {
+    "w": "della",
+    "s": 281.92,
+    "e": 283.96,
+    "stimata": false
+   },
+   {
+    "w": "paura",
+    "s": 283.96,
+    "e": 285.74,
+    "stimata": false
+   }
+  ]
+ }
+]
