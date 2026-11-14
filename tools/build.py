@@ -16,7 +16,7 @@ import sys
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from brani import BRANI  # noqa: E402
 
-VERSIONE = "20261103a"
+VERSIONE = "20261114a"
 SITO = "https://musica.diasio.ch/"
 
 
@@ -124,7 +124,7 @@ def blocco_brano(b, righe, e10):
 <header class="brano-head rv">
 <p class="lato">{e(b["lato"])}</p>
 <h3 id="t-{b["id"]}" class="titolo">{e(b["titolo"])}</h3>
-<ul class="meta"><li>{e(b["genere"])}</li><li>{mmss(d)}</li><li>Singolo · {b["anno"]}</li></ul>
+<ul class="meta"><li>{e(b["genere"])}</li><li>{mmss(d)}</li><li>{e(b.get("etichetta", "Singolo · " + b["anno"]))}</li></ul>
 <p class="concept">{e(b["concept"])}</p>
 </header>
 <div class="brano-grid">
@@ -161,11 +161,11 @@ def blocco_brano(b, righe, e10):
 
 def main():
     dati_js = {}
-    brani_html = []
+    brani_html = {"qm": [], "singoli": []}
     ld = []
     for b in BRANI:
         righe, e10, hits, _ = carica(b)
-        brani_html.append(blocco_brano(b, righe, e10))
+        brani_html[b.get("sezione", "singoli")].append(blocco_brano(b, righe, e10))
         dati_js[b["id"]] = {
             "yt": b["yt"], "titolo": b["titolo"], "slug": b["slug"], "durata": b["durata"],
             "sezioni": [[t, n] for t, n, _ in b["sezioni"]],
@@ -185,11 +185,17 @@ def main():
             "foundingLocation": {"@type": "Place", "name": "Ticino, Svizzera"},
             "image": SITO + "img/og.jpg",
             "sameAs": ["https://www.youtube.com/@D.IAsio_music", "https://www.instagram.com/_d.iasio_/", "https://libri.diasio.ch/"],
+        }, {
+            "@type": "MusicAlbum", "name": "Quinta Muraria", "byArtist": {"@id": SITO + "#artista"},
+            "url": SITO + "#quinta-muraria", "image": SITO + "img/cover-quinta-muraria.webp", "inLanguage": "it",
+            "track": [{"@type": "MusicRecording", "name": "Spirale di vetro", "url": SITO + "#spirale-di-vetro"},
+                      {"@type": "MusicRecording", "name": "Venerdì Nero", "url": SITO + "#venerdi-nero"}],
         }] + ld,
     }
     modello = (RADICE / "tools" / "modello.html").read_text(encoding="utf-8")
     pagina = (modello
-              .replace("{{BRANI}}", "\n".join(brani_html))
+              .replace("{{BRANI_QM}}", "\n".join(brani_html["qm"]))
+              .replace("{{BRANI_SINGOLI}}", "\n".join(brani_html["singoli"]))
               .replace("{{DATI}}", json.dumps(dati_js, ensure_ascii=False, separators=(",", ":")).replace("</", "<\\/"))
               .replace("{{LD}}", json.dumps(ld_tutto, ensure_ascii=False).replace("</", "<\\/"))
               .replace("{{V}}", VERSIONE))

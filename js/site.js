@@ -424,3 +424,32 @@
     setTimeout(function () { b.el.scrollIntoView({ behavior: riduci ? "auto" : "smooth", block: "start" }); }, 250);
   })();
 })();
+
+/* Venerdì Nero: conto alla rovescia fino alla Premiere (27/11/2026 19:00, ora svizzera) e loop verticale */
+(function () {
+  var c = document.querySelector(".conto");
+  if (c) {
+    var fine = Date.parse(c.getAttribute("data-uscita")), u = {};
+    ["g", "o", "m", "s"].forEach(function (k) { u[k] = c.querySelector('[data-u="' + k + '"]'); });
+    var cta = document.querySelector(".vn-cta");
+    var giro = function () {
+      var d = Math.floor((fine - Date.now()) / 1000);
+      if (isNaN(fine) || d <= 0) {
+        c.classList.add("uscito");
+        if (cta) cta.textContent = "Guarda il video su YouTube";
+        return false;
+      }
+      var p = function (n) { return (n < 10 ? "0" : "") + n; };
+      u.g.textContent = p(Math.floor(d / 86400)); u.o.textContent = p(Math.floor(d % 86400 / 3600));
+      u.m.textContent = p(Math.floor(d % 3600 / 60)); u.s.textContent = p(d % 60);
+      return true;
+    };
+    if (giro()) { var t = setInterval(function () { if (!giro()) clearInterval(t); }, 1000); }
+  }
+  var v = document.querySelector(".vetrina-video");
+  if (v && !(window.matchMedia && matchMedia("(prefers-reduced-motion: reduce)").matches) && "IntersectionObserver" in window) {
+    new IntersectionObserver(function (es) {
+      es.forEach(function (en) { if (en.isIntersecting) { var p = v.play(); if (p && p.catch) p.catch(function () {}); } else { v.pause(); } });
+    }, { threshold: 0.25 }).observe(v);
+  }
+})();

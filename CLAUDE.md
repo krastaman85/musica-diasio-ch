@@ -17,3 +17,7 @@ Pagina artista di **D.IAsio** (rap conscious dal Ticino; stesso autore dei roman
 - Brani: `archivio` (L'Archivio della Sete, YouTube `AfqDMkfEWsQ`, 3:56) e `spirale` (Spirale di vetro, `GMXOeERJDZ0`, 5:21). I video 16:9 partono con l'audio a 0 s (durate verificate con ffprobe), quindi nessuno scarto tra video e testo.
 - Prova reale del 3/11 in Chrome sul PC: play da un verso, testo in sincrono con il karaoke del video, barra d'ascolto ok. In cloud YouTube non parte (Chromium senza accesso): provare sul PC con `python -m http.server` nella copia `C:\Users\krast\OneDrive\Documenti\GitHub\musica-diasio-ch`.
 - Immagini: scene dei videoclip (Firefly) ridotte in `img/`; logo `img/diasio-logo.svg` dal pacchetto «D.IAsio-logo» (Drive, cartella di Spirale di vetro). Font locali, licenza SIL OFL.
+
+## Struttura della pagina (14/11/2026)
+Hero (senza sopratitolo) → promo **Venerdì Nero** (`#venerdi-nero`, conto alla rovescia alla Premiere del 27/11/2026 19:00 in `js/site.js`, loop muto `img/venerdi-nero-loop.mp4`; dopo l'ora il riquadro dice «Fuori ora») → album **Quinta Muraria** (`#quinta-muraria`, uscita 2027 senza data; brani con `"sezione": "qm"` in `tools/brani.py`) → **Singoli** fuori dagli album (`#singoli`, `"sezione": "singoli"`: L'Archivio della Sete) → romanzi → canali (YouTube, Instagram, TikTok @d.diasio).
+Non mostrare numeri di traccia né la scaletta dell'album finché non è definitiva (la title track è stata aggiunta il 14/11).
