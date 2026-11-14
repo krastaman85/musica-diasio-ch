@@ -7,7 +7,7 @@ Pagina artista di **D.IAsio** (rap conscious dal Ticino; stesso autore dei roman
 
 ## Regole dell'utente
 - Italiano, risposte operative; distinguere dati e inferenze; dire cosa fa l'utente e cosa fa Claude.
-- **Mai nominare lo strumento musicale usato** (né nei testi del sito né nei metadati). Dicitura fissa nel piè di pagina: «Testi di D.IAsio. Musica e immagini create anche con strumenti IA.»
+- **Mai nominare lo strumento musicale usato** (né nei testi del sito né nei metadati). Dicitura fissa nel piè di pagina: «Testi di D.IAsio. Musica e immagini create con l’ausilio di strumenti IA.»
 - Il merge o il push su `main` pubblica. Nessun token o Secret nei file.
 - Testi dei brani: solo quelli approvati (da `righe.json` dei sorgenti del video karaoke in Drive, `Audio e Video D. Iasio/1 Musica con licenza/Singoli/<brano>/05 - Video/<brano> - sorgenti video.zip`). Non inventare versi.
 
