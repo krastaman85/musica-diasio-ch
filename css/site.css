@@ -379,3 +379,14 @@ h2{font:500 clamp(1.7rem,3.6vw,2.7rem)/1.08 var(--display);letter-spacing:-.01em
   .conto-cifre{gap:6px}
   .promo-eclissi{width:90vmin;right:-40vmin;top:-20vmin}
 }
+/* Chi è D.IAsio (15/11/2026) */
+.chi{padding:110px 0 20px;position:relative}
+.chi-testo{max-width:70ch;border-left:2px solid var(--line-2);padding-left:clamp(18px,3vw,34px)}
+.chi-testo h2{max-width:20ch}
+.chi-testo p{line-height:1.75;color:var(--text)}
+.chi-testo .lead{color:var(--snow);margin-bottom:22px}
+.chi-testo a{color:var(--ice);text-underline-offset:3px;text-decoration-thickness:1px}
+.chi-en{margin-top:28px;border-top:1px solid var(--line);padding-top:18px}
+.chi-en summary{cursor:pointer;font:500 .74rem/1.4 var(--mono);letter-spacing:.24em;text-transform:uppercase;color:var(--acc)}
+.chi-en[open] summary{margin-bottom:14px}
+.chi-en p{color:var(--mute)}
