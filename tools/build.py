@@ -16,7 +16,7 @@ import sys
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from brani import BRANI  # noqa: E402
 
-VERSIONE = "20261114a"
+VERSIONE = "20261115a"
 SITO = "https://musica.diasio.ch/"
 
 
